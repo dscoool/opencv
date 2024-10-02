@@ -59,3 +59,11 @@ https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%
 
 #### 동영상 얼굴 인식
 https://github.com/dscoool/opencv/blob/main/video_face_recognition.ipynb
+
+#### 실시간 비디오 처리 + 객체 추적
+#### YOLO webcam object detection
+https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
+
+#### 최종Final - 드론탐지 객체 추적 프로젝트
+https://github.com/mov-z/Vision-AI-Tutorials/blob/main/Object-Detection/YOLOv5_training_custom_dataset.ipynb
+
