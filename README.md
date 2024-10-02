@@ -41,7 +41,10 @@ https://github.com/dscoool/opencv/blob/main/opencv_edge_detection.ipynb
 #### 타이타닉 생존자 예측
 https://github.com/dscoool/opencv/blob/main/titanic.ipynb
 
-#### 머신러닝핵심
+#### 머신러닝핵심 
+#### 데이터전처리
+https://github.com/dscoool/opencv/blob/main/Fundamentals_of_machine_learning.ipynb
+
 #### 숫자인식
 https://github.com/dscoool/opencv/blob/main/MLP_CNN.ipynb
 
