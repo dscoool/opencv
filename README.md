@@ -13,7 +13,8 @@
 #### 회전
 https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb
 
-#### 기본 필터
+#### 기본 필터 (색상맵/color map)
+https://github.com/dscoool/opencv/blob/main/color_map.ipynb
 
 #### 엣지 검출 Edge Detection
 https://github.com/dscoool/opencv/blob/main/opencv_edge_detection.ipynb
