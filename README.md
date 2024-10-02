@@ -13,6 +13,9 @@
 #### 회전
 https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb
 
+#### 이미지 사이즈 조작 Resize
+https://github.com/dscoool/opencv/blob/main/opencv_resize.ipynb
+
 #### 기본 필터 (색상맵/color map)
 https://github.com/dscoool/opencv/blob/main/color_map.ipynb
 
