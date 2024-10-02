@@ -9,6 +9,17 @@
 ### OpenCV 설치
 ![https://github.com/dscoool/opencv/blob/main/opencv_install.ipynb]
 
+#### 카메라 출력
+https://github.com/dscoool/opencv/blob/main/camera.py
+
+#### 비디오 출력
+https://github.com/dscoool/opencv/blob/main/video.py
+
+#### 이미지 다루기
+
+#### 유튜브 출력
+https://github.com/dscoool/opencv/blob/main/youtube.py
+
 
 #### 회전
 https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb
@@ -22,6 +33,26 @@ https://github.com/dscoool/opencv/blob/main/color_map.ipynb
 #### 엣지 검출 Edge Detection
 https://github.com/dscoool/opencv/blob/main/opencv_edge_detection.ipynb
 
-#### * 색상 기반 개체 추출
+#### 색상 기반 개체 추출
 
 ![color_detection.ipynb](https://github.com/dscoool/opencv/blob/main/color_detection.ipynb)
+
+#### 특징 공학 feature engineering
+#### 타이타닉 생존자 예측
+https://github.com/dscoool/opencv/blob/main/titanic.ipynb
+
+#### 머신러닝핵심
+#### 숫자인식
+https://github.com/dscoool/opencv/blob/main/MLP_CNN.ipynb
+
+#### 평균군집화 K-Means Clustering
+https://github.com/dscoool/opencv/blob/main/8%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.ipynb
+
+#### 교차검증 Cross Validation
+https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.ipynb
+
+#### 교차검증 II
+https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC_002.ipynb
+
+#### 동영상 얼굴 인식
+https://github.com/dscoool/opencv/blob/main/video_face_recognition.ipynb
