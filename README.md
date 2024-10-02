@@ -2,5 +2,5 @@
 #### 개인정보 비식별화 기술 OpenCV 파이썬 코드
 
 
-<img src="[img/one.png](https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png)">
+<img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
 [opencv.ipynb](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
