@@ -13,7 +13,11 @@
 #### 회전
 https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb
 
-#### 
+#### 기본 필터
+
+#### 엣지 검출 Edge Detection
+https://github.com/dscoool/opencv/blob/main/opencv_edge_detection.ipynb
+
 #### * 색상 기반 개체 추출
 
 ![color_detection.ipynb](https://github.com/dscoool/opencv/blob/main/color_detection.ipynb)
