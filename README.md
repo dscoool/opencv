@@ -3,9 +3,14 @@
 
 
 <img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
-![opencv.ipynb](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
+[opencv.ipynb](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
 
 
+### 👨‍🏫 특강 목표
+### python과 opencv를 사용하여 이미지와 영상을 다루고, 보안 솔루션에 사용되는 인물/객체 인식 및 비식별화(blurring)을 경험하여 봅니다
+
+
+## part I. 개인정보 비식별화 자동화 기술 개발
 ### OpenCV 설치
 ![https://github.com/dscoool/opencv/blob/main/opencv_install.ipynb]
 
@@ -37,11 +42,18 @@ https://github.com/dscoool/opencv/blob/main/opencv_edge_detection.ipynb
 
 ![color_detection.ipynb](https://github.com/dscoool/opencv/blob/main/color_detection.ipynb)
 
+
+## part II. 인공지능 알고리즘 설계를 위한 연산 및 통계
+
 #### 특징 공학 feature engineering
 #### 타이타닉 생존자 예측
 https://github.com/dscoool/opencv/blob/main/titanic.ipynb
 
+
+## part III. 인공지능 알고리즘 설계
+
 #### 머신러닝핵심 
+
 #### 데이터전처리
 https://github.com/dscoool/opencv/blob/main/Fundamentals_of_machine_learning.ipynb
 
@@ -61,9 +73,12 @@ https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%
 https://github.com/dscoool/opencv/blob/main/video_face_recognition.ipynb
 
 #### 실시간 비디오 처리 + 객체 추적
-#### YOLO webcam object detection
-https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
+#### [YOLO webcam object detection](
+https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
 
-#### 최종Final - 드론탐지 객체 추적 프로젝트
-https://github.com/mov-z/Vision-AI-Tutorials/blob/main/Object-Detection/YOLOv5_training_custom_dataset.ipynb
+#### [최종Final - 드론탐지 객체 추적 프로젝트]
+(https://github.com/mov-z/Vision-AI-Tutorials/blob/main/Object-Detection/YOLOv5_training_custom_dataset.ipynb)
+
+
+
 
