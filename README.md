@@ -3,7 +3,7 @@
 ## 개인정보 비식별화 기술 OpenCV 파이썬 코드
 
 ## 👨‍🏫 특강 목표
-### python과 opencv를 사용하여 이미지와 영상을 다루고, 보안 솔루션에 사용되는 인물/객체 인식 및 비식별화(blurring)을 경험하여 실전에 응용할 수 있는 이론 및 실습을 하여 봅니다.
+### python과 opencv를 사용하여 이미지와 영상을 다루고, 보안 솔루션에 사용되는 인물/객체 인식 및 비식별화(blurring)을 경험하여 실전에 응용할 수 있는 실습 및 이론학습을 하여 봅니다.
 
 ## 🏷 특강일정 
 <img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
