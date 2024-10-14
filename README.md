@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
 
 
+[수강목적조사 설문](https://forms.gle/kmVF6cLCgenv8CfTA)
 
 [강의자료 PPT](https://docs.google.com/presentation/d/1Ff_bkn8Z9zNS2DMCr98WOfRgOC0bfbJ5HzPYVTRJ9RI/edit?usp=sharing)
 
