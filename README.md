@@ -63,6 +63,9 @@
 ### 🏷 [동영상 얼굴 인식](https://github.com/dscoool/opencv/blob/main/video_face_recognition.py)
 ### [동영상 얼굴 인식(xml 파일) - 같이 다운받으세요](https://github.com/dscoool/opencv/blob/main/haarcascade_frontalface_default.xml)
 
+### [객체 인식 | Object Detection | 소개 비디오](https://youtu.be/cMGI_xo_USU?si=eHFbVuZzZD--sDGR)
+### [객체 인식 | Object Detection | YOLOv11](https://github.com/dscoool/opencv/edit/main/webcam_objectdetection.py)
+
 
 ### 🏷 [실시간 비디오 처리 + 객체 추적]
 ### [YOLO webcam object detection](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
