@@ -27,6 +27,8 @@
 
 ## 🏷 [이미지 다루기]
 
+### [동영상 -> 이미지 변환|.mp4 -> .jpg](https://github.com/dscoool/opencv/blob/main/video2image.py)
+
 ### 🏷 [이미지 회전](https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb)
 
 ### 🏷 [이미지 사이즈 조작 | Resize](https://github.com/dscoool/opencv/blob/main/opencv_resize.ipynb)
