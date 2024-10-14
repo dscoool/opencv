@@ -60,7 +60,9 @@
 
 ### 🏷 [교차검증 II](https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC_002.ipynb)
 
-### 🏷 [동영상 얼굴 인식](https://github.com/dscoool/opencv/blob/main/video_face_recognition.ipynb)
+### 🏷 [동영상 얼굴 인식](https://github.com/dscoool/opencv/blob/main/video_face_recognition.py)
+### [동영상 얼굴 인식(xml 파일) - 같이 다운받으세요](https://github.com/dscoool/opencv/blob/main/haarcascade_frontalface_default.xml)
+
 
 ### 🏷 [실시간 비디오 처리 + 객체 추적]
 ### [YOLO webcam object detection](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
