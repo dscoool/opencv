@@ -24,7 +24,9 @@
 
 ### 🏷 [이미지 다루기]
 
-### 🏷 [유튜브 출력](https://github.com/dscoool/opencv/blob/main/youtube.py)
+### 🏷 [유튜브 출력 ipynb](https://github.com/dscoool/opencv/blob/main/video.ipynb)
+### 🏷 [유튜브 출력 py](https://github.com/dscoool/opencv/blob/main/video.py
+
 
 ### 🏷 [이미지 회전](https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb)
 
