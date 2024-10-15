@@ -71,8 +71,6 @@
 ### 🏷 [실시간 비디오 처리 + 객체 추적]
 ### [YOLO webcam object detection](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
 
-### 🏷 [최종Final - 드론탐지 객체 추적 프로젝트](https://github.com/mov-z/Vision-AI-Tutorials/blob/main/Object-Detection/YOLOv5_training_custom_dataset.ipynb)
-
 ## 수강생 여러분 수고하셨습니다!! 👩‍💻
 
 
