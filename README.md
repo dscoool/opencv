@@ -31,7 +31,7 @@ $ git clone https://github.com/dscoool/opencv.git
 ### 🏷 [유튜브 다운로드 py](https://github.com/dscoool/opencv/blob/main/video.py)
 
 ## 🏷 [이미지 다루기]
-#### [동영상 샘플 | video.mp4](https://kr.object.ncloudstorage.com/opencv/video.mp4)
+#### [동영상 샘플 | video.mp4](https://drive.google.com/file/d/1AhjgPN_n35NhHGfmprH82vlhXU78UnQo/view?usp=sharing)
 )
 ### 🏷 [동영상 -> 이미지 변환 (.mp4 -> .jpg)](https://github.com/dscoool/opencv/blob/main/video2image.py)
 
