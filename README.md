@@ -21,13 +21,13 @@ $ git clone https://github.com/dscoool/opencv.git
 # part I. 개인정보 비식별화 자동화 기술 개발
 ### 🏷 [OpenCV 설치](https://github.com/dscoool/opencv/blob/main/opencv_install.ipynb)
 
-### 🏷 [opencv.ipynb](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
-
 ### 🏷 [카메라 출력](https://github.com/dscoool/opencv/blob/main/camera.py)
 
 ### 🏷 [비디오 출력](https://github.com/dscoool/opencv/blob/main/video.py)
 
+### 🏷 [얼굴 검출 및 비교해 보기 & 블러링](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
 ### 🏷 [유튜브 다운로드 ipynb](https://github.com/dscoool/opencv/blob/main/video.ipynb)
+
 ### 🏷 [유튜브 다운로드 py](https://github.com/dscoool/opencv/blob/main/video.py)
 
 ## 🏷 [이미지 다루기]
