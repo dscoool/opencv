@@ -11,6 +11,9 @@
 
 [수강목적조사 설문](https://forms.gle/kmVF6cLCgenv8CfTA)
 
+### [DOWNLOAD | git clone]
+$ git clone https://github.com/dscoool/opencv.git
+
 [강의자료 PPT](https://docs.google.com/presentation/d/1Ff_bkn8Z9zNS2DMCr98WOfRgOC0bfbJ5HzPYVTRJ9RI/edit?usp=sharing)
 
 # part I. 개인정보 비식별화 자동화 기술 개발
