@@ -14,7 +14,9 @@
 ### [DOWNLOAD | git clone]
 $ git clone https://github.com/dscoool/opencv.git
 
-[강의자료 PPT](https://docs.google.com/presentation/d/1Ff_bkn8Z9zNS2DMCr98WOfRgOC0bfbJ5HzPYVTRJ9RI/edit?usp=sharing)
+### [강의자료 PPT](https://docs.google.com/presentation/d/1Ff_bkn8Z9zNS2DMCr98WOfRgOC0bfbJ5HzPYVTRJ9RI/edit?usp=sharing)
+
+### [PPT | DAY 1](https://docs.google.com/presentation/d/1b6fNyiV6FIEgHotsMR_IIP3pIvClzyXb8AWcZC_2L60/edit?usp=sharing)
 
 # part I. 개인정보 비식별화 자동화 기술 개발
 ### 🏷 [OpenCV 설치](https://github.com/dscoool/opencv/blob/main/opencv_install.ipynb)
