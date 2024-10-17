@@ -26,13 +26,13 @@ $ git clone https://github.com/dscoool/opencv.git
 ### 🏷 [비디오 출력](https://github.com/dscoool/opencv/blob/main/video.py)
 
 ### 🏷 [얼굴 검출 및 비교해 보기 & 블러링](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
-### 🏷 [유튜브 다운로드 ipynb](https://github.com/dscoool/opencv/blob/main/video.ipynb)
 
-### 🏷 [유튜브 다운로드 py](https://github.com/dscoool/opencv/blob/main/video.py)
 
 ## 🏷 [이미지 다루기]
 #### [동영상 샘플 | video.mp4](https://drive.google.com/file/d/1AhjgPN_n35NhHGfmprH82vlhXU78UnQo/view?usp=sharing)
-)
+
+### 🏷 [유튜브 다운로드 py fix](https://github.com/dscoool/opencv/blob/main/youtube_downloader_fix.py)
+
 ### 🏷 [동영상 -> 이미지 변환 (.mp4 -> .jpg)](https://github.com/dscoool/opencv/blob/main/video2image.py)
 
 ### 🏷 [이미지 회전](https://github.com/dscoool/opencv/blob/main/opencv_rotate.ipynb)
