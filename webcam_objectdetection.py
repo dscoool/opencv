@@ -1,8 +1,3 @@
-## [webcam_objectdetection.py] 물체인식
-## yolo v11, yolo v8 모델 파일 함께 다운받으세요
-## [yolo11n.pt] https://github.com/dscoool/opencv/raw/refs/heads/main/yolo11n.pt
-## [yolov8n.pt] https://github.com/dscoool/opencv/raw/refs/heads/main/yolov8n.pt
-
 import cv2
 import matplotlib.pyplot as plt
 from ultralytics import YOLO

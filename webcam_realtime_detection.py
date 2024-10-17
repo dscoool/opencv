@@ -69,3 +69,5 @@ while True:
 # release the webcam and close windows
 cap.release()
 cv2.destroyAllWindows()
+
+# Ref: https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
