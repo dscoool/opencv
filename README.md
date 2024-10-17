@@ -45,6 +45,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ### 🏷 [색상 기반 개체 추출](https://github.com/dscoool/opencv/blob/main/color_detection.ipynb)
 
+### 🏷 [개체 추출 | Object Detection YOLO](https://github.com/dscoool/opencv/blob/main/webcam_objectdetection.py)
 
 # part II. 인공지능 알고리즘 설계를 위한 연산 및 통계
 
