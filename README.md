@@ -27,6 +27,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ### 🏷 [얼굴 검출 및 비교해 보기 & 블러링](https://colab.research.google.com/github/dscoool/opencv/blob/main/opencv.ipynb)
 
+### [DAY 2 | PPT](https://docs.google.com/presentation/d/1_vYVyEIg4zF8wzoh3rODgmh22bTob1PLu8mLcpn0ljs/edit?usp=sharing)
 
 ## 🏷 [이미지 다루기]
 #### [동영상 샘플 | video.mp4](https://drive.google.com/file/d/1AhjgPN_n35NhHGfmprH82vlhXU78UnQo/view?usp=sharing)
