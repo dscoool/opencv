@@ -18,3 +18,12 @@ if __name__ == "__main__":
     url = input('Enter the Youtube url: ')
     # url = "https://www.youtube.com/watch?v=VSQshAgnals"
     youtube_downloader(url)
+
+
+# exe파일로 만들어서 배포하기 [pyinstaller]
+# C:\Users\sys\Desktop\openCV\youtube_downloader.py
+# $ python -m pip install pyinstaller
+# $ python -m PyInstaller --onefile 
+#          --windowed youtube_downloader.py
+## (PyInstaller 대소문자 구별)
+# .exe 파일은 dist 폴더 안에 생성됩니다.
