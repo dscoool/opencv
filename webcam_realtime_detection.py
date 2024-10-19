@@ -8,7 +8,12 @@ cap.set(3, 640)  # set width
 cap.set(4, 480)  # set height
 
 # load YOLO model
-model = YOLO("./yolov8n.pt")
+# model = YOLO("./yolo11n.pt")
+# model = YOLO('yolo11-seg.pt')
+# model = YOLO('./yolo11n-pose.pt')
+# model = YOLO('yolo11x.pt')
+# model = YOLO('yolo11m.pt')
+model = YOLO('yolo11l.pt')
 
 # object classes
 classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "train", "truck", "boat",
@@ -71,9 +76,3 @@ cap.release()
 cv2.destroyAllWindows()
 
 # Ref: https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
-
-# exe파일로 만들어서 배포하기 [pyinstaller]
-# (PyInstaller 대소문자 구별)
-# $ python -m pip install pyinstaller
-# $ python -m PyInstaller --onefile --windowed webcam_realtime_detection.py
-# .exe 파일은 dist 폴더 안에 생성됩니다.
