@@ -50,6 +50,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 [DAY 3 | PPT](https://docs.google.com/presentation/d/1ffRVKxEoN5ThaV32XQi-lH_maoVz1-Tz61HW8Ja7F_o/edit?usp=sharing)
 
+### 🏷 [네이버 클라우드 오브젝트 스토리지](https://github.com/dscoool/opencv/blob/main/naver_object_storage.py)
 ### 🏷 [동영상 -> 이미지 변환 (.mp4 -> .jpg)](https://github.com/dscoool/opencv/blob/main/video2image.py)
 
 ### 🏷 [이미지 사이즈 조작 | Resize](https://github.com/dscoool/opencv/blob/main/opencv_resize.ipynb)
