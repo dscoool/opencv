@@ -48,7 +48,20 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ### 🏷 [개체 추출 | Object Detection YOLO](https://github.com/dscoool/opencv/blob/main/webcam_objectdetection.py)
 
+[DAY 3 | PPT](https://docs.google.com/presentation/d/1ffRVKxEoN5ThaV32XQi-lH_maoVz1-Tz61HW8Ja7F_o/edit?usp=sharing)
+
+### 🏷 [동영상 -> 이미지 변환 (.mp4 -> .jpg)](https://github.com/dscoool/opencv/blob/main/video2image.py)
+
+### 🏷 [이미지 사이즈 조작 | Resize](https://github.com/dscoool/opencv/blob/main/opencv_resize.ipynb)
+
+### 🏷 [실시간 개체 추출 | Realtime Object Detection](https://github.com/dscoool/opencv/blob/main/webcam_realtime_detection.py)
+
 #### [스무딩 | 샤프닝](https://www.geeksforgeeks.org/python-opencv-smoothing-and-blurring/)
+[DAY 4 | PPT]()
+[DAY 5 | PPT]()
+
+
+
 
 # part II. 인공지능 알고리즘 설계를 위한 연산 및 통계
 
