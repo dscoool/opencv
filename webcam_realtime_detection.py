@@ -71,3 +71,9 @@ cap.release()
 cv2.destroyAllWindows()
 
 # Ref: https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
+
+# exe파일로 만들어서 배포하기 [pyinstaller]
+# (PyInstaller 대소문자 구별)
+# $ python -m pip install pyinstaller
+# $ python -m PyInstaller --onefile --windowed webcam_realtime_detection.py
+# .exe 파일은 dist 폴더 안에 생성됩니다.
