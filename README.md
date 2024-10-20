@@ -59,6 +59,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 #### [스무딩 | 샤프닝](https://www.geeksforgeeks.org/python-opencv-smoothing-and-blurring/)
 [DAY 4 | PPT]()
+
 [DAY 5 | PPT]()
 
 
@@ -73,6 +74,7 @@ $ git clone https://github.com/dscoool/opencv.git
 # part III. 인공지능 알고리즘 설계
 
 ### 🏷 머신러닝핵심 
+### [퍼셉트론의 이해](https://sacko.tistory.com/10)
 
 ### 🏷 [데이터전처리 | data preprocessing](https://github.com/dscoool/opencv/blob/main/Fundamentals_of_machine_learning.ipynb)
 
