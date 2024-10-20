@@ -100,5 +100,6 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ## 수강생 여러분 수고하셨습니다!! 👩‍💻
 
+##### [Reference | OpenCV](https://gdsc-yonsei.github.io/mlresearch/Python1-Sebin/)
 
 
