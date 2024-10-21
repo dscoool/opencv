@@ -119,3 +119,5 @@ $ git clone https://github.com/dscoool/opencv.git
 #### [샘플 4](https://hyunseob.github.io/resume/)
 
 #### [notion.site 도메인생성](https://www.notion.so/help/manage-your-notion-sites)
+
+#### [이력서 샘플](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/edit?usp=sharing)
