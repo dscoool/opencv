@@ -104,4 +104,17 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ##### [Lab | OpenCV](https://gdsc-yonsei.github.io/mlresearch/Python1-Sebin/)
 
+## [취업자료]
+
+#### [깃허브 페이지 / 포트폴리오 만들기](https://brunch.co.kr/@everiwon/42)
+
+#### []()
+
+#### [샘플1](https://dev-lob.notion.site/27-Junior-Backend-Developer-e51c02b15e89401abe00604d95d4846d)
+
+#### [샘플 번들 2](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio?tab=readme-ov-file)
+
+#### [노션 샘플 3](https://dev-lob.notion.site/27-Junior-Backend-Developer-e51c02b15e89401abe00604d95d4846d)
+
+#### [샘플 4](https://hyunseob.github.io/resume/)
 
