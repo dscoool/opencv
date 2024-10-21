@@ -108,7 +108,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 #### [깃허브 페이지 / 포트폴리오 만들기](https://brunch.co.kr/@everiwon/42)
 
-#### []()
+#### [Notion 이력서 샘플](https://github.com/dscoool/opencv/blob/main/notion_resume_sample.htm)
 
 #### [샘플1](https://dev-lob.notion.site/27-Junior-Backend-Developer-e51c02b15e89401abe00604d95d4846d)
 
@@ -121,3 +121,6 @@ $ git clone https://github.com/dscoool/opencv.git
 #### [notion.site 도메인생성](https://www.notion.so/help/manage-your-notion-sites)
 
 #### [이력서 샘플](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/edit?usp=sharing)
+
+
+### [정재민 노션 이력서](http://jaeminjjeong.notion.site)
