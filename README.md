@@ -86,6 +86,7 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ### 🏷 [교차검증 II](https://github.com/dscoool/opencv/blob/main/9%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC_002.ipynb)
 
+### [퍼셉트론 | Perceptron](https://github.com/dscoool/opencv)
 ### [머신러닝 모델 | CNN - Convolution Neural Network](https://github.com/dscoool/opencv/blob/main/MLP_CNN.ipynb)
 ### [머신러닝 모델 | ANN](https://github.com/dscoool/opencv/blob/main/Artificial%20Neural%20network.ipynb)
 ### [머신러닝 모델 | RNN](https://github.com/dscoool/opencv/blob/main/RNN_%E1%84%89%E1%85%AE%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC.ipynb)
