@@ -136,3 +136,5 @@ Notion을 시작할 때 표시되는 페이지를 변경할 수 있습니다. �
 Notion 도메인 → 계속 을 선택하세요.
 원하는 도메인을 입력하세요.
 도메인 생성 을 선택하세요.
+
+[참조 | (name/id).github.io 생성방법](https://dnight.tistory.com/entry/GitHubio-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
