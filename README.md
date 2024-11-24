@@ -8,6 +8,7 @@
 ## 🏷 특강일정 
 <img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
 
+### [2024/11/24 sample lecture](https://github.com/dscoool/opencv/blob/main/sample_lecture.ipynb)
 
 [수강목적조사 설문](https://forms.gle/kmVF6cLCgenv8CfTA)
 
