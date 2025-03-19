@@ -58,6 +58,8 @@ $ git clone https://github.com/dscoool/opencv.git
 
 ### 🏷 [실시간 개체 추출 | Realtime Object Detection](https://github.com/dscoool/opencv/blob/main/webcam_realtime_detection.py)
 
+### 🏷 [포즈/동작 검출 | Pose Detection](https://github.com/dscoool/opencv/blob/main/6_pose_detection.py)
+
 #### [스무딩 | 샤프닝](https://www.geeksforgeeks.org/python-opencv-smoothing-and-blurring/)
 [DAY 4 | PPT]()
 
